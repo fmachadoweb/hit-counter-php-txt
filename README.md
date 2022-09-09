@@ -16,7 +16,7 @@
     <a href="https://github.com/fmachadoweb/hit-counter-php-txt/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://hardtek.com.br/timer/">Demo</a>
+    <a href="https://hardtek.com.br/hitcounter/">Demo</a>
     ·
     <a href="mailto:fernandomachadoweb@gmail.com">Bug report</a>
 
